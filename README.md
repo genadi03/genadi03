@@ -2,6 +2,6 @@
 
 - 👀 I’m interested in learning different programming languages, such as C#, JavaScript, Python and others
 
-- 🌱 I am currently teaching students various computer disciplines
+- 🌱 I am currently working as a university lecturer, teaching various computer disciplines
 
 - 📫 Email for correspondence: genadi03@gmail.com
